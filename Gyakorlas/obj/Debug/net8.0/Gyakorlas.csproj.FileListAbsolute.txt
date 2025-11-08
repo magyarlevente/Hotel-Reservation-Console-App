@@ -1,0 +1,14 @@
+C:\Users\magya\Desktop\C#\Gyakorlas\Gyakorlas\bin\Debug\net8.0\Gyakorlas.exe
+C:\Users\magya\Desktop\C#\Gyakorlas\Gyakorlas\bin\Debug\net8.0\Gyakorlas.deps.json
+C:\Users\magya\Desktop\C#\Gyakorlas\Gyakorlas\bin\Debug\net8.0\Gyakorlas.runtimeconfig.json
+C:\Users\magya\Desktop\C#\Gyakorlas\Gyakorlas\bin\Debug\net8.0\Gyakorlas.dll
+C:\Users\magya\Desktop\C#\Gyakorlas\Gyakorlas\bin\Debug\net8.0\Gyakorlas.pdb
+C:\Users\magya\Desktop\C#\Gyakorlas\Gyakorlas\obj\Debug\net8.0\Gyakorlas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magya\Desktop\C#\Gyakorlas\Gyakorlas\obj\Debug\net8.0\Gyakorlas.AssemblyInfoInputs.cache
+C:\Users\magya\Desktop\C#\Gyakorlas\Gyakorlas\obj\Debug\net8.0\Gyakorlas.AssemblyInfo.cs
+C:\Users\magya\Desktop\C#\Gyakorlas\Gyakorlas\obj\Debug\net8.0\Gyakorlas.csproj.CoreCompileInputs.cache
+C:\Users\magya\Desktop\C#\Gyakorlas\Gyakorlas\obj\Debug\net8.0\Gyakorlas.dll
+C:\Users\magya\Desktop\C#\Gyakorlas\Gyakorlas\obj\Debug\net8.0\refint\Gyakorlas.dll
+C:\Users\magya\Desktop\C#\Gyakorlas\Gyakorlas\obj\Debug\net8.0\Gyakorlas.pdb
+C:\Users\magya\Desktop\C#\Gyakorlas\Gyakorlas\obj\Debug\net8.0\Gyakorlas.genruntimeconfig.cache
+C:\Users\magya\Desktop\C#\Gyakorlas\Gyakorlas\obj\Debug\net8.0\ref\Gyakorlas.dll
